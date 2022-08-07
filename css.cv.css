@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;1,200&family=Square+Peg&display=swap');
+
+
+
+.fondo {
+    background-image: url(./36193.jpg);
+
+    padding-bottom: 280px;
+    background-size: cover;
+}
+
+.Menu {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 21px;
+    font-style: black;
+    text-align: center;
+}
+
+.name {
+    font-size: 80px;
+    font-family: 'Square Peg', cursive;
+    text-align: center;
+    margin: 0%;
+    padding-top: 250px;
+}
+
+.titul {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0%;
+}
+
+.links {
+    text-align: center;
+}
+
+.section2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    color: rgb(209, 213, 216);
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0%;
+    background-color: rgb(57, 56, 56);
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    font-size: 20px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    padding-left: 5%;
+}
+.text2 {
+    padding: 20px;
+}
+.flex2 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.flex2 ul {
+    list-style: none;
+}
+.grid-button {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.text-foto-button {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.foto-button {
+    padding-left: 10px;
+}
+.row {
+    color: rgb(209, 213, 216);
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+
+}
+
+.row a {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.foto {
+    width: 230px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 4px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.aboutme {
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 30px;
+}
+
+.button {
+    background-color: rgb(174, 179, 179);
+    padding: 20px 15px;
+    border: 0;
+    border-radius: 5px;
+    text-align: right;
+    align-items: center;
+}
+
+.button img {
+    width: 30px;
+    height: 30px;
+    display: flex;
+
+}
+
+.section-cv {
+    background-color: rgb(255, 255, 255);
+}
+
+.section {
+    margin-bottom: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+.grid-resume {
+    display: grid;
+    grid-template-columns: auto ;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+.edu-text li {
+    list-style: none;
+}
+.flex-resume {
+    display: flex;
+    align-items: center;
+    margin-top: 20px
+}
+.flex-resume p {
+    color: black;
+    font-size: 29px;
+    text-decoration: underline rgb(75, 75, 230);
+    text-decoration-thickness: 5px; 
+    padding-left: 5%;
+}
+.flex-text-work {
+    padding-left: 82px;
+    list-style: none; 
+}
+.flex-text-work li {
+    list-style: none; 
+}
+
+.prgramming-skills {
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+.grid-skills {
+    display: grid;
+    grid-template-columns: auto;
+}
+.flex-skills {
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+}
+.flex-skills p {
+    color: black;
+    font-size: 29px;
+    text-decoration: underline rgb(75, 75, 230);
+    text-decoration-thickness: 5px; 
+    padding-left: 5%;
+}
+.flex-skills ul {
+    list-style: none;
+    padding-left: 120px;
+    line-height: 35px;
+}
+
+.titul2 {
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(243, 243, 243);
+}
+
+.titul2 H2 {
+    text-align: center;
+}
+
+.titul2 p {
+    text-align: center;
+}
+
+.contactfinal {
+    color: rgb(237, 237, 246);
+    text-align: center;
+    background: rgb(35, 34, 34);
+    font-family: 'Raleway', sans-serif;
+}
+
+.textfooter {
+    color: rgb(197, 197, 202);
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
